@@ -18,7 +18,7 @@ We evaluated three models on a subset of the BBC News Dataset. The **Multinomial
 | Logistic Regression | 98.92% | 0.99 |
 
 ### Visual Performance Comparison
-*(Upload your 'image_f5bbe6.png' here to show the bar chart)*
+
 ![Model Accuracy Comparison](Results/Accuracy_Comparison.png)
 
 ---
@@ -50,7 +50,7 @@ While 100% accuracy is often suspicious, our investigation revealed why it happe
 2.  **Temporal Bias:** Feature importance analysis showed **"Germany"** as the #1 keyword for Sport. This is an artifact of the dataset being from 2004-2005, during preparations for the **2006 FIFA World Cup**.
 
 #### Confusion Matrix
-*(Upload your 'image_f5bbae.png' here)*
+
 ![Confusion Matrix](Results/cnfmatrix.png)
 
 ---
@@ -64,7 +64,7 @@ While 100% accuracy is often suspicious, our investigation revealed why it happe
 ### Installation
 1.  Clone the repo:
     ```bash
-    git clone [https://github.com/your-username/bbc-news-classifier.git](https://github.com/tashir0605/bbc-news-classifier.git)
+    git clone https://github.com/tashir0605/bbc-news-classifier.git
     ```
 2.  Install dependencies:
     ```bash
