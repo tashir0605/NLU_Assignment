@@ -19,7 +19,7 @@ We evaluated three models on a subset of the BBC News Dataset. The **Multinomial
 
 ### Visual Performance Comparison
 *(Upload your 'image_f5bbe6.png' here to show the bar chart)*
-![Model Accuracy Comparison](image_f5bbe6.png)
+![Model Accuracy Comparison](Results/Accuracy_Comparison.png)
 
 ---
 
@@ -51,7 +51,7 @@ While 100% accuracy is often suspicious, our investigation revealed why it happe
 
 #### Confusion Matrix
 *(Upload your 'image_f5bbae.png' here)*
-![Confusion Matrix](image_f5bbae.png)
+![Confusion Matrix](Results/cnfmatrix.png)
 
 ---
 
